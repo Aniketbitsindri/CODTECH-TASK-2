@@ -1,3 +1,9 @@
+Name : ANIKET KUMAR
+Company : CODTECH IT SOLUTIONS
+ID : CT6WDS187
+Domain : VLSI
+Duration :10TH JUNE 2024 to 22ND JULY 2024
+Mentor : SRAVANI GOUNI
 
 
 ## output for Finite State Machine
